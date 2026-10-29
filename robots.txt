@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qunidebaga.github.io/neural-mindmap/sitemap.xml
